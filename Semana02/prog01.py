@@ -1,1 +1,6 @@
-import 
+
+message = 'Hello'
+
+print(message)
+
+
